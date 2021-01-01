@@ -1,6 +1,6 @@
 # JoystickDcMotorController
 
-Utilisiing the Arduino Uno and joystick to control the direction and speed of the DC motor.
+Project utilising the Arduino Uno and joystick to control the direction and speed of the DC motor.
 
 # What I Learned
 
